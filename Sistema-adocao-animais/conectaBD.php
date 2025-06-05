@@ -7,7 +7,7 @@
 $endereco = 'localhost';
 $banco = 'sispet';
 $usuario = 'postgres';
-$senha = 'Rafha@123database';
+$senha = 'Teste@123database';
 
 try {
     // SGBD; host; porta; dbname;
